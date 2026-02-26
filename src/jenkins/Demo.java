@@ -5,7 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 System.out.println("Hello from Jenkins + GitHub");
-		System.out.println("Github-Webhook");
+		//System.out.println("Github-Webhook");
 		//for testing webhook
 
 	}
